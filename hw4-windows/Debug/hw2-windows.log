@@ -1,0 +1,20 @@
+﻿  main.cpp
+c:\users\carolynn\desktop\cse167\hw4\hw4-windows\hw2-windows\main.cpp(38): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\carolynn\desktop\cse167\hw4\hw4-windows\hw2-windows\main.cpp(202): warning C4244: '=': conversion from 'T' to 'BYTE', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\carolynn\desktop\cse167\hw4\hw4-windows\hw2-windows\main.cpp(203): warning C4244: '=': conversion from 'T' to 'BYTE', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\carolynn\desktop\cse167\hw4\hw4-windows\hw2-windows\main.cpp(204): warning C4244: '=': conversion from 'T' to 'BYTE', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\carolynn\desktop\cse167\hw4\hw4-windows\hw2-windows\main.cpp(229): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\carolynn\desktop\cse167\hw4\hw4-windows\hw2-windows\main.cpp(122): warning C4715: 'intersect': not all control paths return a value
+  hw2-windows.vcxproj -> C:\Users\carolynn\Desktop\CSE167\hw4\hw4-windows\Debug\hw2-windows.exe
