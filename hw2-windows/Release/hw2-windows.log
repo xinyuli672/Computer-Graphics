@@ -1,0 +1,18 @@
+﻿  main.cpp
+c:\users\carolynn\desktop\cse167\hw4\hw4-windows\hw2-windows\main.cpp(163): warning C4244: '=': conversion from 'T' to 'unsigned char', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\carolynn\desktop\cse167\hw4\hw4-windows\hw2-windows\main.cpp(164): warning C4244: '=': conversion from 'T' to 'unsigned char', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\carolynn\desktop\cse167\hw4\hw4-windows\hw2-windows\main.cpp(165): warning C4244: '=': conversion from 'T' to 'unsigned char', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\carolynn\desktop\cse167\hw4\hw4-windows\hw2-windows\main.cpp(187): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\carolynn\desktop\cse167\hw4\hw4-windows\hw2-windows\main.cpp(237): error C2065: 'test1': undeclared identifier
